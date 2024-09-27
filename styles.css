@@ -126,6 +126,7 @@ html {
     width: 100vw;
     padding-top: 75px;
     position: relative;
+    margin-bottom: 50px;
 }
 #modal2-logo {
     width: 30%;
@@ -141,5 +142,5 @@ html {
 #modal2-product {
     width: 50%;
     z-index: 1;
-    padding-top: 20px;
+    padding-top: 30px;
 }
